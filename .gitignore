@@ -1,1 +1,3 @@
 *.so
+find_closest_element.c
+.ipynb_checkpoints/*
