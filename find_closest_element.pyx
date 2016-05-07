@@ -1,5 +1,3 @@
-cimport numpy as c_np 
-
 cimport cython_declaration_module
 
 def find_closest_element_wrapper(double[:] input_data, key):
